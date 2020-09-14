@@ -1,0 +1,181 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	background-color: #F0F0F0;
+	margin: 0;
+	padding: 0;
+}
+.container {
+	margin: 0;
+	padding: 0;
+}
+/* Оформление для NavBar меню*/
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
+}
+.navbar-nav li a:hover {
+  color: #47DDC4 !important;
+}
+.navbar-right ul {
+	padding: 0;
+	margin: 0;
+}
+.navbar-brand {
+	padding-left: 100px;
+}
+/* Оформление первого слайдера*/
+.bg {
+	background-color: #47DDC4;
+	color: white;
+	min-height: 735px;
+	min-width: 1364px;
+}
+.text-center1 {
+	margin-top:80px;
+}
+.img-circle {
+	height: 350px;
+	width: 350px;
+}
+/* Оформление второго слайдера*/
+.home {
+	width: 200px;
+	height: 200px;
+	box-shadow: 13px 14px 10px rgba(0,0,0,0.4);
+}
+.width {
+	width: 300px;
+}
+.bg2 {
+	min-width: 1364px;
+	min-height: 735px;
+	color: grey;
+}
+.text-center2 {
+	margin-top: 200px;
+}
+.bold-text { 
+	font-size: 2em;
+}
+/* Оформление третьего слайдера*/
+.bg3 {
+	min-width: 1364px;
+	min-height: 735px;
+	background-color: #CE75F7;
+	color: white;
+}
+.row-name {
+	margin-top: 60px;
+}
+.margin-top-i { 
+	margin-top: 40px;
+}
+.text-center3 {
+	margin-top: 250px;
+	margin-left: 70px;
+}
+.bg3 i {
+	font-size: 7em;
+}
+i:hover {
+	color: #47DDC4;
+}
+/* Оформление четвёртого слайдера*/
+.bg5 {
+	min-width: 1364px;
+	min-height: 735px;
+}
+.video {
+	border: 10px solid #CE75F7;
+	box-shadow: 20px 14px 10px rgba(0,0,0,0.3);
+}
+.margin-top-h2 { 
+	margin-top: 50px;
+}
+/* Оформление карусели*/
+.bg6 {
+	min-width: 1364px;
+	min-height: 735px;
+	background-color: #CE75F7;
+	color: white;
+}
+.item {
+	width: 626px;
+	height: 417px;
+	margin: 3px;
+}
+.item > img {
+	max-width: 100%;
+	width: auto\9;
+	height: 100%;
+	vertical-align: middle;
+	border: 0;
+}
+.text-center4 {
+	margin-top: 150px;
+}
+.margin-top-h3 {
+	margin-top: 130px;
+}
+/* Оформление регистрационной панели*/
+.bg4 {
+	min-width: 1364px;
+	min-height: 735px;
+	background-color: #47DDC4;
+	color: white;
+}
+.form-container { 
+	width: 500px; 
+}
+.label-normal { 
+	font-weight: normal;
+	margin: 20px 0px 0px 0px;
+}
+
+.margin-top-i {
+	margin-top: 40px;
+}
+
+.margin-top-h2 { 
+	margin-top: 50px;
+}
+
+.margin-top-h3 { 
+	margin-top: 130px;
+}
+
+.margin-top-div { 
+	margin-top: 60px;
+}
+
+.margin-top-container { 
+	margin-top: 30px;
+}
+.div-height { 
+	height: 100px; 
+}
+.btn-color-bg {
+	background-color: grey;
+}
+.button-style {
+	margin: 10px 0px 0px 0px; 
+	width: 200px;
+}
+/*Оформление footer*/
+footer {
+	min-height: 150px;
+	color: #CE75F7;
+}
+footer a {
+	color: #CE75F7;
+}
+h2 a:hover {
+	color: #47DDC4;
+}
