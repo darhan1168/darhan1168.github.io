@@ -1,0 +1,153 @@
+
+
+
+
+.navbar {
+	position: fixed;
+}
+.text-hi {
+	margin-top: 50px;
+}
+
+
+.calculator {
+	margin-top: 100px;
+}
+.row-calc {
+	margin-top: 30px;
+}
+.calculator button {
+	width: 100px;
+	height: 40px;
+}
+.row-calc-mar {
+	margin-top: 60px;
+}
+.calc-sugn {
+	padding-left: 70px;
+	font-weight: bold;
+}
+.res-calc {
+	padding-left: 3px;
+	padding-top: 2px;
+	width: 200px;
+	height: 30px;
+	font-weight: bold;
+	background: #b5b5b5;
+	border-radius: 20px;
+}
+
+.random {
+	margin-top: 250px;
+}
+.random-mar {
+	margin-top: 50px;
+}
+.btn-random {
+	margin-top: 35px;
+}
+.random-number {
+	background: #b5b5b5; 
+	font-weight: bold;	
+	width: 1000px;
+	overflow: hidden;
+	margin-top: 40px;
+}
+.random-number-chapter {
+	word-spacing: 10px;
+}
+
+.footbal {
+	margin-top: 300px;
+	position: relative;
+}
+#field {
+    width: 1100px;
+    height: 600px;
+    border: 10px groove black;
+    background-color: #00FF00;
+    position: relative;
+    cursor:pointer;
+    }
+#ball {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    transition: 1s all;
+}
+#vorota {
+	position: absolute;
+	left: 270px;
+	bottom: 330px;
+}
+#goalkeeper {
+	position: absolute;
+	left: 420px;
+	bottom: 330px;
+}
+.win-football {
+	position: absolute;
+	width: 360px;
+	height: 110px;
+	left: 340px;
+	bottom: 500px;
+}
+.light-first, .light-second {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	border-radius: 60px;
+	background: yellow;
+	cursor: auto;
+}
+.light-first {
+	right:1070px;
+	top: 60px;
+}
+.light-second {
+	left: 1070px;
+	top: 60px;
+}
+.beam-first, .beam-second {
+	position: absolute;
+	width: 20px;
+	height: 410px;
+	background: black;
+	cursor: auto;
+}
+.beam-first {
+	right:1118px;
+	top: 180px;
+}
+.beam-second {
+	left: 1118px;
+	top: 180px;
+}
+
+.counter-win {
+	margin-left: 300px;
+	padding-left: 5px;
+	border: 3px solid black;
+	width: 150px;
+}
+.loss-one, .loss-two {
+	position: absolute;
+	width: 20px;
+	height: 215px;
+}
+.loss-three {
+	position: absolute;
+	width: 400px;
+	height: 20px;
+	left: 325px;
+	bottom: 610px;	
+}
+.loss-one {
+	left: 325px;
+	bottom: 420px;
+}
+.loss-two {
+	left: 705px;
+	bottom: 420px;	
+}
+
